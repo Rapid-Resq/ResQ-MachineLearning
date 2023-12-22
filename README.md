@@ -14,7 +14,6 @@
 - Data Preparation (*Numpy, Pandas, Matplotlib*)
 - Transfer Learning (*Transfer Learning Computer Vision: MobileNetV2*)
 - Modeling (*Tensorflow, Keras, Scikit-Learn*)
-- Deployment
 
 ### Dataset
 - [US Accidents (2016 - 2023)](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents/)
